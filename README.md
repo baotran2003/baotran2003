@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bao Tran</h1>
 <h3 align="center">I am a backend developer with a passion for developing high-quality products.</h3>
-<img align="right" alt="Coding" width="400" src ="https://i.makeagif.com/media/4-05-2022/FvBVst.gif"
+<img align="right" alt="Coding" width="300" src ="https://i.makeagif.com/media/4-05-2022/FvBVst.gif"
 - 🌱 I’m currently learning **Information Technology at IUH**
 
 - 💬 Ask me about **Spring Boot, Express**
