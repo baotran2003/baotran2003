@@ -5,8 +5,7 @@
 
 - 🌱 I’m currently learning **Information Technology at IUH**
 
-- 💬 Ask me about **Spring Boot, Express**
-- 💬 Ask me about **React, Angular**
+- 💬 Ask me about **Spring Boot, Express, Angular**
 
 - 📫 How to reach me **trankhuongbao2003@gmail.com**
 
